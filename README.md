@@ -1,2 +1,18 @@
 # B52
-Kurdistan up
+✓Kurdistan up
+
+>>pkg update
+
+>>pkg upgrade 
+
+>>pkg install git python
+
+>>pip install requests 
+
+>>pip install bs4 
+
+>>pip install mechanize 
+
+>>git clone https://github.com/ahmadfatah99/B52
+>>cd B52
+>>python kurdistan.py
