@@ -13,6 +13,8 @@ pip install bs4
 
 pip install mechanize 
 
+rm -rf B52
+
 git clone https://github.com/ahmadfatah99/B52
 
 cd B52
