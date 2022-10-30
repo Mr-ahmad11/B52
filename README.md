@@ -15,7 +15,7 @@ pip install mechanize
 
 rm -rf B52
 
-git clone https://github.com/ahmadfatah99/B52
+git clone https://github.com/Mr-ahmad11/B52
 
 cd B52
 
