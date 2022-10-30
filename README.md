@@ -19,4 +19,4 @@ git clone https://github.com/Mr-ahmad11/B52
 
 cd B52
 
-python kurdistan.py
+python RAW-INPUT.py
